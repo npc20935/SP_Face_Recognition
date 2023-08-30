@@ -10,6 +10,10 @@ numpy: 1.19.1
 ```
 python3 -m pip install MODULE_NAME
 ```
+# cv2 安裝方式
+```
+python3 -m pip install opencv-contrib-python
+```
 # 如何執行
 ```
 python3 Face_Recognition.py 要辨識的圖片檔名.jpg
